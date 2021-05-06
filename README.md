@@ -7,6 +7,7 @@
 
 #### LinearLayout
 * require **"orientation"** attributes (vertical / hotizontal) 
+* 부모에 **weightsum**을 주면 자식이 **weight**으로 분배해서 비율을 가져감
 * important attributes
   * android:**weightSum**, android:**layout_weight**
 
